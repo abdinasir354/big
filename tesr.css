@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section4{
+    background-color: rgba(252, 237, 198, 1);
+
+}
+.icons{display: flex;}

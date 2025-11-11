@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-weight:400;
+}
+.said-bar{
+    background-color: white;
+    /* box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.1); */
+    width: 218px;
+
+}
+/* .home{
+    background-color: rgba(222, 204, 254, 1);
+} */
+ .icon{
+    
+    /* width: 180px;
+    height: 40px; */
+   
+    /* padding-left: 20px; */
+    /* padding-top: 10px; */
+ }
+ .home{
+         background-color: rgba(222, 204, 254, 1);
+         border-radius: 10px;
+ }
+ .icon i{
+    margin-left: 10px;
+    margin-top: 10px;
+ }
+ /* ] */
+ .flex{
+    display: flex;
+    gap: 50px;
+ }
+ .oper{
+    display: flex;
+    gap: 30px;
+    /* flex-wrap: wrap; */
+    
+ }
+ .from{
+    margin-left: 150px;
+ }
+ .said-bar img{
+    padding-left: 70px;
+    padding-top: 20px;
+ }
+ .home{
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+ .creat{
+     margin-top: 20px;
+    margin-left: 20px;
+ }
+ .second{
+    display: flex;
+    text-align: center;
+    gap: 400px;
+    margin-top: 20px;
+ }
+ .red{
+    color: rgba(255, 75, 0, 1);
+    
+ }
+ .from-flex{
+    display: flex;
+    gap: 60px;
+
+ }
+ .kow input{
+    width: 256px;
+    height: 30px;
+    border-radius: 5px;
+    /* border: none; */
+ }
+ .kow input :placeholder-shown{
+    background-color: blue;
+ }
+ .second2 input{
+    width: 550px;
+    height: 30px;
+    /* background-color: rgba(24, 20, 243, 1);g */
+
+ }
+ .h1{
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 250px;
+    color: rgba(24, 20, 243, 1);
+ }
+
+ .save{
+    background-color: rgba(24, 20, 243, 1);
+    border: none;
+    /* padding: 15px 10px 15px 10px; */
+    width: 130px;
+    height: 40px ;
+    color: white;
+    margin-top: 30px;
+    margin-left: 425px;
+    border-radius: 5px;
+ }
+ .from{
+    background-color: rgba(255, 255, 255, 1);
+ }
+
+ .kow,.second2{
+    border-radius: 1px;
+ }
+ .kow input::placeholder{
+    color: rgba(113, 142, 191, 1);
+    padding-left: 10px;
+ }
+ .second2 input::placeholder{
+    color: rgba(113, 142, 191, 1);
+    padding-left: 10px;
+ }
